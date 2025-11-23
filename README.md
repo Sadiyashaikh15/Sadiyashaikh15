@@ -11,11 +11,11 @@
 ---
 
 ### 💻 Skills
-- Python, JavaScript, HTML, CSS
-- AI / LLM / Prompt Engineering
-- Git, GitHub, Flowise
+- Python, JavaScript, HTML, CSS ,SQL,Firebase
+- Learning AI / LLM / Prompt Engineering
+- Git, GitHub
 
 ---
 
 ### 🔗 Connect with Me
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile) | [Portfolio](https://yourportfolio.com)
+[[LinkedIn](https://linkedin.com/in/yourprofile
