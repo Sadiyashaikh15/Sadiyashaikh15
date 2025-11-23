@@ -11,7 +11,7 @@
 ---
 
 ### 💻 Skills
-- Python, JavaScript, HTML, CSS ,SQL,Firebase
+- Python, JavaScript, HTML, CSS ,DSA,SQL,Firebase
 - Learning AI / LLM / Prompt Engineering
 - Git, GitHub
 
