@@ -17,10 +17,10 @@ Focused on solving problems, building clean web interfaces, and growing consiste
 
 ## 🤝 Connect With Me
 <p align="left">
-<a href="mailto:yourmail@gmail.com">📧 Email</a> •
+<a href="sadiyashaikh9371@gmail.com">📧 Email</a> •
 <a href="https://github.com/yourusername">🐙 GitHub</a> •
-<a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> •
-<a href="https://yourportfolio.vercel.app">🌐 Portfolio</a>
+<a href="www.linkedin.com/in/sadiyashaikh15">💼 LinkedIn</a> •
+<a href="https://leetcode.com/u/sadiya_shaikh/">👩‍💻Leetcode</a>
 </p>
 
 ✨ *Let’s learn, build, and grow together!* ✨
@@ -33,50 +33,33 @@ Focused on solving problems, building clean web interfaces, and growing consiste
 - 🧠 **DSA**: Arrays, Strings, Linked List, Stack, Queue, Trees
 - 🌐 **Web Development**: HTML, CSS, JavaScript
 - 🔧 **Version Control**: Git, GitHub
-- 🖥️ **Tools**: VS Code, Linux Basics
-
+- 🖥️ **Tools**: VS Code
 ---
 
 ### ⚒️ Languages & Tools
 | Languages | Web | Tools |
 |---------|-----|------|
-| C++ | HTML | Git |
+| C | HTML | Git |
 | Java | CSS | GitHub |
 | Python | JavaScript | VS Code |
 
----
-
-## 📌 Featured Projects
-🚀 *Quality over quantity*
-
-### 🔹 DSA Progress Tracker
-Tracks solved problems & consistency  
-**Tech:** HTML, CSS, JavaScript  
-
-### 🔹 To-Do Web App
-Simple task manager with clean UI  
-**Tech:** HTML, CSS, JavaScript  
-
-### 🔹 Portfolio Website
-Personal portfolio with dark theme  
-**Tech:** HTML, CSS  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sadiyashaikh15e&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadiyashaikh15&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-<img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/Sadiyashaikh15/Sadiyashaikh15/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
