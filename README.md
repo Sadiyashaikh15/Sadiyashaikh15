@@ -19,3 +19,5 @@
 
 ### 🔗 Connect with Me
 [[LinkedIn](https://linkedin.com/in/yourprofile
+Leetcode:-https://leetcode.com/u/sadiya_shaikh/
+gfg:-https://www.geeksforgeeks.org/user/sadiyashaeein/
