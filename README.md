@@ -8,7 +8,7 @@ Focused on solving problems, building clean web interfaces, and growing consiste
 ---
 
 ## 🌱 About Me
-🎯 Passionate about **Data Structures & Algorithms**  
+🎯 Learning **Data Structures & Algorithms in python **  
 💻 Building responsive websites using **HTML, CSS & JavaScript**  
 🧠 Practicing DSA on **LeetCode & CodeChef**  
 🤝 Open to **internships, collaborations & learning opportunities**
