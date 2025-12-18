@@ -29,20 +29,18 @@ Focused on solving problems, building clean web interfaces, and growing consiste
 
 ## 🛠️ Tech Stack
 
-### 💡 Skills & Learnings
-- 🧠 **DSA**: Arrays, Strings, Linked List, Stack, Queue, Trees
-- 🌐 **Web Development**: HTML, CSS, JavaScript
-- 🔧 **Version Control**: Git, GitHub
-- 🖥️ **Tools**: VS Code
----
+💻 Tech Stack
+🧠 Programming Languages
 
-### ⚒️ Languages & Tools
-| Languages | Web | Tools |
-|---------|-----|------|
-| C | HTML | Git |
-| Java | CSS | GitHub |
-| Python | JavaScript | VS Code |
+Python, SQL, HTML, CSS, JavaScript
 
+🗄️ Databases
+
+MySQL, MongoDB
+
+🐍 Python Libraries
+
+Pandas, NumPy, SciPy, Matplotlib, Seaborn
 
 ---
 
