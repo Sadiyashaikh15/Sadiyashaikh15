@@ -1,5 +1,5 @@
 <h1 align="center">𝗛𝗶, 𝗜’𝗺 𝗦𝗮𝗱𝗶𝘆𝗮 ✨</h1>
-<h3 align="center">DSA Enthusiast | Web Developer</h3>
+<h3 align="center">PYTHON DEVLOPER & DSA LEARNER</h3>
 
 <p align="center">
 Focused on solving problems, building clean web interfaces, and growing consistently 🚀
@@ -8,9 +8,7 @@ Focused on solving problems, building clean web interfaces, and growing consiste
 ---
 
 ## 🌱 About Me
-🎯 Learning **Data Structures & Algorithms in python **  
-💻 Building responsive websites using **HTML, CSS & JavaScript**  
-🧠 Practicing DSA on **LeetCode & CodeChef**  
+Curious learner focused on growth, consistency, and self-improvement.
 🤝 Open to **internships, collaborations & learning opportunities**
 
 ---
@@ -29,7 +27,6 @@ Focused on solving problems, building clean web interfaces, and growing consiste
 
 ## 🛠️ Tech Stack
 
-💻 Tech Stack
 🧠 Programming Languages
 
 Python, SQL, HTML, CSS, JavaScript
