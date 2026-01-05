@@ -41,23 +41,6 @@ Pandas, NumPy, SciPy, Matplotlib, Seaborn
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sadiyashaikh15e&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadiyashaikh15&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-<img src="https://github.com/Sadiyashaikh15/Sadiyashaikh15/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 🌟 *Consistency beats motivation.*  
-🌙 *Keep solving. Keep building.*
+
