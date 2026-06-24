@@ -29,25 +29,6 @@ Git • GitHub • VS Code • Canva
 
 ---
 
-## Featured Projects
-
-### StreamScope: AI Netflix Dashboard
-
-Interactive dashboard built using Streamlit for Netflix content analysis, visual storytelling, recommendation systems, and content planning.
-
-**Live Demo:**  
-https://streamscope-ai-netflix-dashboard.onrender.com
-
-**Repository:**  
-https://github.com/Sadiyashaikh15/StreamScope-AI-Netflix-Dashboard
-
----
-
-### SmartGov
-
-Contributed to frontend development of a digital governance platform focused on improving accessibility and citizen services.
-
----
 
 ## Open Source
 
