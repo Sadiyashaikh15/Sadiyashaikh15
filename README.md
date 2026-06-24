@@ -1,54 +1,90 @@
-# Hi, I'm Sadiya Shaikh
+<h1 align="center">Hi, I'm Sadiya Shaikh</h1>
 
-### Computer Science Engineering Student
-
-Passionate about Python, Data Analytics, and problem-solving. Currently focused on improving Data Structures & Algorithms while building practical projects and exploring new technologies.
-
----
-
-### Tech Stack
-
-**Languages**
-
-* Python
-* SQL
-* JavaScript
-* HTML
-* CSS
-
-**Tools & Technologies**
-
-* Git
-* GitHub
-* Streamlit
-* Firebase
-* MySQL
-* MongoDB
-
-**Libraries**
-
-* Pandas
-* NumPy
-* Matplotlib
-* Plotly
+<p align="center">
+Computer Science Engineering Student | Python Developer | DSA Learner
+</p>
 
 ---
 
-### Open to
+## About Me
 
-* Internships
-* Open Source Contributions
-* Collaborations
-* Learning Opportunities
+- B.Tech CSE Student
+- Learning Data Structures & Algorithms
+- Interested in Python, Data Analytics, Web Development, and Open Source
+- Building real-world projects and improving problem-solving skills
+- Open to internships, collaborations, and learning opportunities
 
 ---
 
-### Connect
+## Tech Stack
 
-📧 Email: [sadiyashaikh9371@gmail.com](mailto:sadiyashaikh9371@gmail.com)
+### Languages
+Python • SQL • JavaScript • HTML • CSS
 
-🔗 LinkedIn: https://www.linkedin.com/in/sadiyashaikh15
+### Libraries & Frameworks
+Pandas • NumPy • Plotly • Streamlit • Firebase
 
-💻 GitHub: https://github.com/Sadiyashaikh15
+### Tools
+Git • GitHub • VS Code • Canva
 
+---
 
+## Featured Projects
+
+### StreamScope: AI Netflix Dashboard
+
+Interactive dashboard built using Streamlit for Netflix content analysis, visual storytelling, recommendation systems, and content planning.
+
+**Live Demo:**  
+https://streamscope-ai-netflix-dashboard.onrender.com
+
+**Repository:**  
+https://github.com/Sadiyashaikh15/StreamScope-AI-Netflix-Dashboard
+
+---
+
+### SmartGov
+
+Contributed to frontend development of a digital governance platform focused on improving accessibility and citizen services.
+
+---
+
+## Open Source
+
+- GirlScript Summer of Code Contributor
+- Open Source Connect India Contributor
+- Multiple merged pull requests across open-source projects
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sadiyashaikh15&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadiyashaikh15&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Sadiyashaikh15&theme=tokyonight" />
+</p>
+
+---
+
+## Connect With Me
+
+📧 Email: sadiyashaikh9371@gmail.com
+
+💼 LinkedIn:  
+https://linkedin.com/in/sadiyashaikh15
+
+💻 GitHub:  
+https://github.com/Sadiyashaikh15
+
+---
+
+<p align="center">
+Always learning, building, and improving.
+</p>
