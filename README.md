@@ -1,46 +1,54 @@
-<h1 align="center">𝗛𝗶, 𝗜’𝗺 𝗦𝗮𝗱𝗶𝘆𝗮 ✨</h1>
-<h3 align="center">PYTHON DEVLOPER & DSA LEARNER</h3>
+# Hi, I'm Sadiya Shaikh
 
-<p align="center">
-Focused on solving problems, building clean web interfaces, and growing consistently 🚀
-</p>
+### Computer Science Engineering Student
 
----
-
-## 🌱 About Me
-Curious learner focused on growth, consistency, and self-improvement.
-🤝 Open to **internships, collaborations & learning opportunities**
+Passionate about Python, Data Analytics, and problem-solving. Currently focused on improving Data Structures & Algorithms while building practical projects and exploring new technologies.
 
 ---
 
-## 🤝 Connect With Me
-<p align="left">
-<a href="sadiyashaikh9371@gmail.com">📧 Email</a> •
-<a href="https://github.com/yourusername">🐙 GitHub</a> •
-<a href="www.linkedin.com/in/sadiyashaikh15">💼 LinkedIn</a> •
-<a href="https://leetcode.com/u/sadiya_shaikh/">👩‍💻Leetcode</a>
-</p>
+### Tech Stack
 
-✨ *Let’s learn, build, and grow together!* ✨
+**Languages**
+
+* Python
+* SQL
+* JavaScript
+* HTML
+* CSS
+
+**Tools & Technologies**
+
+* Git
+* GitHub
+* Streamlit
+* Firebase
+* MySQL
+* MongoDB
+
+**Libraries**
+
+* Pandas
+* NumPy
+* Matplotlib
+* Plotly
 
 ---
 
-## 🛠️ Tech Stack
+### Open to
 
-🧠 Programming Languages
-
-Python, SQL, HTML, CSS, JavaScript
-
-🗄️ Databases
-
-MySQL, MongoDB
-
-🐍 Python Libraries
-
-Pandas, NumPy, SciPy, Matplotlib, Seaborn
+* Internships
+* Open Source Contributions
+* Collaborations
+* Learning Opportunities
 
 ---
 
+### Connect
 
-🌟 *Consistency beats motivation.*  
+📧 Email: [sadiyashaikh9371@gmail.com](mailto:sadiyashaikh9371@gmail.com)
+
+🔗 LinkedIn: https://www.linkedin.com/in/sadiyashaikh15
+
+💻 GitHub: https://github.com/Sadiyashaikh15
+
 
